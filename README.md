@@ -1,6 +1,22 @@
+# Projeto Dohaeris
+Projeto que visa descaracterizar aparelhos de TV Box.
 
-# Proje  Dohaeris Descaracterização de Tv Box
-## Modelo MXQ Pro (Rk3228 A/B)
-*Passo a Passo para instalar Armbian na placa Rk329Q*
+## Introdução
 
-O software deve ser inicializado e executado sem problemas em todas as placas baseadas nos chips RK3228a, RK3228b e RK3229, independentemente do tipo de memória RAM utilizada (DDR2 ou DDR3).
+Nesta documentação, você vai encontrar o passo a passo utilizado na instalação do sistema Armbian, sistema baseado no Debian, nos dispositivos de TV Box MXQ PRO 4K, que tem como processadores os chips Rockchip da série RK3228 A/B e RK3229.
+
+### Especificações do modelo:
+
+* 1GB Ram
+* 7GB Armazenamento interno
+
+### Requisitos:
+
+* Dispositivo TV Box MXQ PRO 4K
+* Cartão microSD
+* Adaptador microSD para SD
+* Adaptador microSD ou SD para USB
+* Mouse e teclado USB
+
+## Processo de instalação
+
